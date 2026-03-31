@@ -17,7 +17,7 @@ A PowerShell script that automates the entire process of setting up a PyTorch en
 ### How to Use
 1.  Download `PyTorch EZ Setup`.
 2.  Open **PowerShell as Administrator**.
-3.  Navigate to the PyTorch EZ Setup folder.
+3.  Navigate to the `PyTorch EZ Setup` folder.
 4.  Run: `.\Setup.ps1`
 
 ### Compatibility
@@ -41,7 +41,7 @@ A PowerShell script that automates the entire process of setting up a PyTorch en
 ### 使用方式
 1.  下載 `PyTorch EZ Setup`
 2.  以**系統管理員身分**開啟 PowerShell
-3.  導航至 PyTorch EZ Setup 資料夾
+3.  導航至 `PyTorch EZ Setup` 資料夾
 4.  輸入：`.\Setup.ps1`
 
 ### 支援硬體清單
@@ -65,7 +65,7 @@ Windows 上で PyTorch 環境を完全に自動構築するための PowerShell 
 ### 使用方法
 1.  `PyTorch EZ Setup` をダウンロードします。
 2.  **管理者として PowerShell** を開きます。
-3. PyTorch EZ Setup フォルダに移動します。
+3.  `PyTorch EZ Setup` フォルダに移動します。
 4.  実行：`.\Setup.ps1`
 
 ### 対応ハードウェア
